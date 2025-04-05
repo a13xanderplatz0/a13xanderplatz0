@@ -26,10 +26,10 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dreizhn13&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dreizhn13&theme=radical" alt="GitHub Streak" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=a13xanderplatz0&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=a13xanderplatz0&theme=radical" alt="GitHub Streak" width="49%" />
     <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=dreizhn13&theme=radical&column=7" alt="GitHub Trophy" width="90%"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=a13xanderplatz0&theme=radical&column=7" alt="GitHub Trophy" width="90%"/>
 </div>
 
 ---
