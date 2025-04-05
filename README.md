@@ -1,8 +1,3 @@
-<div align="center">
-    <img src="https://media-hosting.imagekit.io/6b7462dc17d04116/banner_optimizado-removebg-preview%20(1).png?Expires=1837917607&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Img~ZC7vfjjOd6yE4CAfb6JMvT~PrET8Aj8wnr11QKOkq8ad58isuJFGA-GF32LEhwRqtc7eP07aJcSdDkChx2LrLtHoaAmW1T4yBFhcjbRyUwJ5DjGP4oAR5knSTxBFogXAGqMPr0c26TCLyqmhY9C8bJXub7gvwhwOeN-cs0Felk~s7l3zX3EQWYFLtfeuc1ocA4Cfq8Va5AxzN7h5b6tR0MABtp0kA4-4nTprL6dzyNn5ERe7jJ6z1mmBw~Hv5LhSP6SRZzCsCLEdwIf2jZcGT7HUWSffmr8RSS~3Ab3Lyza0Onw0l7YDWcbUarvgoadvi70sJorNj945D6EtFw__" alt="Banner de dreizhn13" width="40%">
-</div>
-
-
 
 
 > *"La tecnología no es solo una herramienta, es la puerta hacia el futuro."*  
@@ -12,12 +7,6 @@
 📚 **Actualmente aprendiendo:** c++ , desarrollo basado en plataformas , arquitectura de computadoras.
 ⚡ **Meta:** Construir sistemas que trasciendan el tiempo.  
 
----
-
-
-<div align="center">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTBxbW45cm84aGtkcDRnbng2aXZnODNsYmQ3aGNwcW9nZ2p6Z3NlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FNfcWhlz0GTkzcnZWh/giphy.gif" alt="Banner de dreizhn13" width="50%">
-</div>
 
 
 ## 🚀 Tech Stack 
