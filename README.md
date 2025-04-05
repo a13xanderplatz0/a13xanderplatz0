@@ -1,9 +1,11 @@
-# *"La tecnología no es solo una herramienta, es la puerta hacia el futuro."*  
+> *"La tecnología no es solo una herramienta, es la puerta hacia el futuro."*  
 
 📍 **Ubicación:** [tierra del fuego, argentina]  
 💡 **Apasionado por:** IA, Desarrollo Web, Blockchain, y más.  
-📚 **Actualmente aprendiendo:** c++ , desarrollo basado en plataformas , arquitectura de computadoras.  
+📚 **Actualmente aprendiendo:** c++ , desarrollo basado en plataformas , arquitectura de computadoras.
 ⚡ **Meta:** Construir sistemas que trasciendan el tiempo.  
+
+
 
 ## 🚀 Tech Stack 
 
@@ -11,13 +13,14 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,express,fastapi,php,laravel,python,java,spring,cpp,cs,rust,go,django,flask,mysql,postgresql,mongodb,sqlite,redis,docker,kubernetes,linux,git,github,gitlab,bash,vscode,neovim,figma,astro&theme=dark" alt="Tech Stack">
 </div>
 
+
 ## 📊 GitHub Stats  
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=a13xanderplatz0&show_icons=true&theme=default&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" alt="GitHub Stats" width="49%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=a13xanderplatz0&theme=blue" alt="GitHub Streak" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=a13xanderplatz0&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=a13xanderplatz0&theme=radical" alt="GitHub Streak" width="49%" />
     <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=a13xanderplatz0&theme=onedark&column=7" alt="GitHub Trophy" width="90%"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=a13xanderplatz0&theme=radical&column=7" alt="GitHub Trophy" width="90%"/>
 </div>
 
 ---
