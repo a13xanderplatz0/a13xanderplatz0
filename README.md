@@ -1,5 +1,14 @@
 > *"La tecnología no es solo una herramienta, es la puerta hacia el futuro."*  
-[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/watch?v=TU_ID_DE_CANCION)
+```diff
++ 🎵 Escuchando ahora: 
++ 
++  ┌──────────────────────────────┐
++  │   Canción: [Nombre]          │
++  │   Artista: [Artista]         │
++  │   ▶️ 0:30 ─○───── 3:45      │
++  └──────────────────────────────┘
++ 
++ [Reproducir en YouTube Music](https://music.youtube.com/watch?v=...)
 📍 **Ubicación:** [tierra del fuego, argentina]  
 💡 **Apasionado por:** IA, Desarrollo Web, Blockchain, y más.  
 📚 **Actualmente aprendiendo:** c++ , desarrollo basado en plataformas , arquitectura de computadoras.
