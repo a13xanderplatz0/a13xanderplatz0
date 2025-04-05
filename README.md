@@ -21,6 +21,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=a13xanderplatz0&theme=radical" alt="GitHub Streak" width="49%" />
     <br>
     <img src="https://github-profile-trophy.vercel.app/?username=a13xanderplatz0&theme=radical&column=7" alt="GitHub Trophy" width="90%"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=a13xanderplatz0&theme=react-dark&hide_border=true&area=true" width="90%">
 </div>
 
 ---
