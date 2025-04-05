@@ -1,6 +1,6 @@
 > *"La tecnología no es solo una herramienta, es la puerta hacia el futuro."*  
 
-### 🎧 Vibra Actual  
+bobo
 [![Lofi Chill](https://img.shields.io/badge/🎶_Lofi_Chill-FF0000?style=flat-square&logo=youtube-music)](https://music.youtube.com/watch?v=5qap5aO4i9A)
 
 📍 **Ubicación:** [tierra del fuego, argentina]  
