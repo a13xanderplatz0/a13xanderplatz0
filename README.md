@@ -16,13 +16,6 @@
 </div>
 
 
-
-<div align="center">
-    <img src="https://media-hosting.imagekit.io/195297dac96b4e64/ChatGPTImage29mar202510_12_51p.m.-ezgif.com-reverse-removebg-preview.png?Expires=1837912871&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=zvsKKt0l7eJsTi4nQjcTeZ-P-AfbD7hm1j~DYnCemTXi3feRmKv1fc5wPmC90XgKM9E9Qu5LobA43FgfxaAkvwBDKjU8fhap-P8iOHIYgJE6fynKcHSxlw9fsb6YwSO5cX3T~-KEQykowFgAhPO5PXY1jelw5YYMeTeVnha2Sp1VfbomBLVRv5YE3MEiBDux6Va5KvgftcUFZtUpdE3Ud~fFjUoVEqd0mFjfJ-oD8DDR2mPzwoggay3g-wdvMZyygwvMPq5j117jDpL99w1tqgxJgk-aJkEuMYG99jzUS~OGvq5dL5P4q5VoHwNe-owZKxOExF6hSaHNlI2KlF71Wg__" alt="Esfera de Tecnologías" width="300px">
-</div>
-
----
-
 ## 📊 GitHub Stats  
 
 <div align="center">
