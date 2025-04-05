@@ -1,5 +1,5 @@
 > *"La tecnología no es solo una herramienta, es la puerta hacia el futuro."*  
-```diff
+
 + 🎵 Escuchando ahora: 
 + 
 +  ┌──────────────────────────────┐
