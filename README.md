@@ -27,9 +27,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=a13xanderplatz0&theme=radical&column=7" alt="GitHub Trophy" width="90%"/>
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=a13xanderplatz0&theme=react-dark&hide_border=true&area=true" width="90%">
 </div>
----
-
-## 🌐 Contacto
 
 <div align="center">
     <a href="https://linkedin.com/in/jhonalexanderflores"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
