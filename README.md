@@ -1,6 +1,6 @@
 > *"La tecnología no es solo una herramienta, es la puerta hacia el futuro."*  
 
-[![Lofi Chill](https://img.shields.io/badge/🎶_Lofi_Chill-FF0000?style=flat-square&logo=youtube-music)](https://music.youtube.com/watch?v=5qap5aO4i9A)  
+[![Lofi Chill](https://img.shields.io/badge/🎶_Lofi_Chill-FF0000?style=flat-square&logo=youtube-music)](https://www.youtube.com/watch?v=h4FSnS2pngY)  
 ![Profile Views](https://komarev.com/ghpvc/?username=a13xanderplatz0&color=blue&label=VISITAS&style=flat-square)
 
 📍 **Ubicación:** Tierra del Fuego, Argentina  
