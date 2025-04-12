@@ -10,8 +10,6 @@
 
 ---
 
-## 🚀 Tech Stack 
-
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,express,fastapi,php,laravel,python,java,spring,cpp,cs,rust,go,django,flask,mysql,postgresql,mongodb,sqlite,redis,docker,kubernetes,linux,git,github,gitlab,bash,vscode,neovim,figma,astro&theme=dark" alt="Tech Stack">
 </div>
