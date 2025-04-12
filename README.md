@@ -16,8 +16,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=a13xanderplatz0&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=a13xanderplatz0&theme=radical" alt="GitHub Streak" width="49%" />
