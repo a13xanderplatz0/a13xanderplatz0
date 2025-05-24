@@ -1,5 +1,4 @@
 > *"La tecnología no es solo una herramienta, es la puerta hacia el futuro."*
-> https://windsurf.com/editor/download-windows
 
 [![BUEN VIAJE](https://img.shields.io/badge/🎶_BUEN_VIAJE_13-FF0000?style=flat-square&logo=youtube-music)](https://www.youtube.com/watch?v=h4FSnS2pngY)  
 ![Profile Views](https://komarev.com/ghpvc/?username=a13xanderplatz0&color=blue&label=VISITAS&style=flat-square)
