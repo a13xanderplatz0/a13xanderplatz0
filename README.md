@@ -1,6 +1,6 @@
 
 
-[![BUEN VIAJE](https://img.shields.io/badge/🎶_BUEN_VIAJE_13-FF0000?style=flat-square&logo=youtube-music)](https://www.youtube.com/watch?v=K8YreLtqypk&list=PLYZ0qk5-Ulv32D-FHZqzwuEiU5YF5yLiM)  
+[![GRAY :)](https://img.shields.io/badge/🎶_BUEN_VIAJE_13-FF0000?style=flat-square&logo=youtube-music)](https://www.youtube.com/watch?v=rTvC-Z7V_7c&list=RDrTvC-Z7V_7c&start_radio=1)  
 ![Profile Views](https://komarev.com/ghpvc/?username=a13xanderplatz0&color=blue&label=VISITAS&style=flat-square)
 
 📍 **Ubicación:** Tierra del Fuego, Argentina  
