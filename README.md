@@ -5,8 +5,6 @@
 
 📍 **Ubicación:** Tierra del Fuego, Argentina  
 💡 **Apasionado por:** IA, Desarrollo Web, Blockchain y sistemas descentralizados.  
-📚 **Actualmente aprendiendo:** C++, Desarrollo basado en plataformas, Arquitectura de computadoras.  
-⚡ **Meta:** Construir sistemas que trasciendan el tiempo.  
 
 ---
 
